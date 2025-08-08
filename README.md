@@ -17,3 +17,5 @@ for i in range(n):
             movies[j], movies[j + 1] = movies[j + 1], movies[j]
 
 print("Sorted by length:", movies)
+
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/9debce98-6950-4272-80fd-d73f260b4f36" />
